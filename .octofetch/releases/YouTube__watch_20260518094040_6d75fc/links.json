@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-2516",
+  "folder": "YouTube__watch_20260518094040_6d75fc",
+  "base_name": "SNEAKY_GUY_WENT_IN_FARGO_Fargo_vs_Marakar_Epic_GLA_Mirror_49S0B3UHklE_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-2516",
+  "files": [
+    {
+      "name": "SNEAKY_GUY_WENT_IN_FARGO_Fargo_vs_Marakar_Epic_GLA_Mirror_49S0B3UHklE_720p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-2516/SNEAKY_GUY_WENT_IN_FARGO_Fargo_vs_Marakar_Epic_GLA_Mirror_49S0B3UHklE_720p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/423168581",
+      "id": 423168581,
+      "size": 603925213,
+      "download_count": 0
+    }
+  ]
+}
