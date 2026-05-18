@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-8319",
+  "folder": "YouTube__watch_20260518095901_3cd771",
+  "base_name": "(_2_9_)_roc9_WFulDI_480p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-8319",
+  "files": [
+    {
+      "name": "_2_9_._roc9_WFulDI_480p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-8319/_2_9_._roc9_WFulDI_480p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/423180905",
+      "id": 423180905,
+      "size": 9295990,
+      "download_count": 0
+    }
+  ]
+}
