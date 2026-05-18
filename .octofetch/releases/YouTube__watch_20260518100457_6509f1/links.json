@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-6993",
+  "folder": "YouTube__watch_20260518100457_6509f1",
+  "base_name": "X-UI_Oxdg1VJEZmY_480p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-6993",
+  "files": [
+    {
+      "name": "X-UI_Oxdg1VJEZmY_480p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-6993/X-UI_Oxdg1VJEZmY_480p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/423185667",
+      "id": 423185667,
+      "size": 18702370,
+      "download_count": 0
+    }
+  ]
+}
