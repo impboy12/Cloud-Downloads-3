@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-8746",
+  "folder": "YouTube__watch_20260518072623_25b22e",
+  "base_name": "Demolition_showdown_QfgWTgDLuDs_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-8746",
+  "files": [
+    {
+      "name": "Demolition_showdown_QfgWTgDLuDs_720p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-8746/Demolition_showdown_QfgWTgDLuDs_720p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/423075394",
+      "id": 423075394,
+      "size": 229618680,
+      "download_count": 0
+    }
+  ]
+}
