@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-3739",
+  "folder": "YouTube__watch_20260518095451_8f4cd9",
+  "base_name": "VIP_(_)_67Dz34jhfhM_480p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-3739",
+  "files": [
+    {
+      "name": "VIP_._._67Dz34jhfhM_480p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-3739/VIP_._._67Dz34jhfhM_480p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/423178022",
+      "id": 423178022,
+      "size": 32460173,
+      "download_count": 0
+    }
+  ]
+}
