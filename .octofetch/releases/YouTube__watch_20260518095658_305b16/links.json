@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-7511",
+  "folder": "YouTube__watch_20260518095658_305b16",
+  "base_name": "Mhr_Http_Restricted_Mode_26cA9us7BoE_480p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-7511",
+  "files": [
+    {
+      "name": "Mhr_Http_Restricted_Mode_26cA9us7BoE_480p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-7511/Mhr_Http_Restricted_Mode_26cA9us7BoE_480p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/423179406",
+      "id": 423179406,
+      "size": 25663212,
+      "download_count": 0
+    }
+  ]
+}
