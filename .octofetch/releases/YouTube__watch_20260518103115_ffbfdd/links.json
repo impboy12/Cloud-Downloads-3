@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-2649",
+  "folder": "YouTube__watch_20260518103115_ffbfdd",
+  "base_name": "Caligula_(1979)_Full_Movie_Review_Malcolm_McDowell_Helen_Mirren_QpIFZJ-4Imw_480p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-2649",
+  "files": [
+    {
+      "name": "Caligula_.1979._Full_Movie_Review_Malcolm_McDowell_Helen_Mirren_QpIFZJ-4Imw_480p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-2649/Caligula_.1979._Full_Movie_Review_Malcolm_McDowell_Helen_Mirren_QpIFZJ-4Imw_480p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/423202461",
+      "id": 423202461,
+      "size": 254631300,
+      "download_count": 0
+    }
+  ]
+}
