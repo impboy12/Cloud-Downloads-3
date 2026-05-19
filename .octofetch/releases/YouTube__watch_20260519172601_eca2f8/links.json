@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-2817",
+  "folder": "YouTube__watch_20260519172601_eca2f8",
+  "base_name": "BoYcaH_vs_Marakar_Aggressive_Demo_Mirror_-ovaj2-IqJs_480p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-2817",
+  "files": [
+    {
+      "name": "BoYcaH_vs_Marakar_Aggressive_Demo_Mirror_-ovaj2-IqJs_480p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-2817/BoYcaH_vs_Marakar_Aggressive_Demo_Mirror_-ovaj2-IqJs_480p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/424381926",
+      "id": 424381926,
+      "size": 70652057,
+      "download_count": 0
+    }
+  ]
+}
