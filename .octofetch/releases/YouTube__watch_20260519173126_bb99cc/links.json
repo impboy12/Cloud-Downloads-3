@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-1523",
+  "folder": "YouTube__watch_20260519173126_bb99cc",
+  "base_name": "Marakar_vs_Lift_Truck_Demo_vs_Tox_Arctic_Arena_vkhJMWrz_ww_480p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-1523",
+  "files": [
+    {
+      "name": "Marakar_vs_Lift_Truck_Demo_vs_Tox_Arctic_Arena_vkhJMWrz_ww_480p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-1523/Marakar_vs_Lift_Truck_Demo_vs_Tox_Arctic_Arena_vkhJMWrz_ww_480p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/424385604",
+      "id": 424385604,
+      "size": 82181305,
+      "download_count": 0
+    }
+  ]
+}
