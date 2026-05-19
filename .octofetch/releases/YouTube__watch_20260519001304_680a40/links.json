@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-2457",
+  "folder": "YouTube__watch_20260519001304_680a40",
+  "base_name": "EPICNESS_Marakar_vs_BoYcaH_Infantry_vs_Demo_Gold_Cobra_f-ppw-fpl0k_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-2457",
+  "files": [
+    {
+      "name": "EPICNESS_Marakar_vs_BoYcaH_Infantry_vs_Demo_Gold_Cobra_f-ppw-fpl0k_720p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-2457/EPICNESS_Marakar_vs_BoYcaH_Infantry_vs_Demo_Gold_Cobra_f-ppw-fpl0k_720p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/423739319",
+      "id": 423739319,
+      "size": 967428773,
+      "download_count": 0
+    }
+  ]
+}
