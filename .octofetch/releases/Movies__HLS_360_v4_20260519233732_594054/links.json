@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-7658",
+  "folder": "Movies__HLS_360_v4_20260519233732_594054",
+  "base_name": "Movies__HLS_360_v4_20260519233732_594054.m3u8",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-7658",
+  "files": [
+    {
+      "name": "Movies__HLS_360_v4_20260519233732_594054.m3u8",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-7658/Movies__HLS_360_v4_20260519233732_594054.m3u8",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/424622015",
+      "id": 424622015,
+      "size": 7089,
+      "download_count": 0
+    }
+  ]
+}
