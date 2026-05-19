@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-5920",
+  "folder": "YouTube__watch_20260519001843_1e7370",
+  "base_name": "He_likes_a_MOAB_Size_vs_Fargo_Air_vs_Tox_Liquid_Gold_OG8zqRQ4HQ4_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-5920",
+  "files": [
+    {
+      "name": "He_likes_a_MOAB_Size_vs_Fargo_Air_vs_Tox_Liquid_Gold_OG8zqRQ4HQ4_720p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-5920/He_likes_a_MOAB_Size_vs_Fargo_Air_vs_Tox_Liquid_Gold_OG8zqRQ4HQ4_720p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/423741616",
+      "id": 423741616,
+      "size": 537858693,
+      "download_count": 0
+    }
+  ]
+}
