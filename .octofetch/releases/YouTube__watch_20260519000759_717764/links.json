@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-6309",
+  "folder": "YouTube__watch_20260519000759_717764",
+  "base_name": "CRAZIEST_BIGGEST_MADDEST_3V3_TF_EVER_OsLDAx90DTY_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-6309",
+  "files": [
+    {
+      "name": "CRAZIEST_BIGGEST_MADDEST_3V3_TF_EVER_OsLDAx90DTY_720p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-6309/CRAZIEST_BIGGEST_MADDEST_3V3_TF_EVER_OsLDAx90DTY_720p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/423736364",
+      "id": 423736364,
+      "size": 1134658089,
+      "download_count": 0
+    }
+  ]
+}
