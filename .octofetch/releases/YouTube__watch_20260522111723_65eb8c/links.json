@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-8558",
+  "folder": "YouTube__watch_20260522111723_65eb8c",
+  "base_name": "zADLGLEkClw_zADLGLEkClw_480p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-8558",
+  "files": [
+    {
+      "name": "zADLGLEkClw_zADLGLEkClw_480p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-8558/zADLGLEkClw_zADLGLEkClw_480p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/427020112",
+      "id": 427020112,
+      "size": 25325406,
+      "download_count": 0
+    }
+  ]
+}
