@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-2852",
+  "folder": "YouTube__watch_20260523195301_26cf0c",
+  "base_name": "HRCT_zTUO1hXA9TU_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-2852",
+  "files": [
+    {
+      "name": "HRCT_zTUO1hXA9TU_720p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-2852/HRCT_zTUO1hXA9TU_720p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/428075047",
+      "id": 428075047,
+      "size": 29012392,
+      "download_count": 0
+    }
+  ]
+}
