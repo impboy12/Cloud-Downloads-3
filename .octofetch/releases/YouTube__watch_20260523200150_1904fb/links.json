@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-6227",
+  "folder": "YouTube__watch_20260523200150_1904fb",
+  "base_name": "How_I_Read_a_Chest_CT_9TdBLnSjACA_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-6227",
+  "files": [
+    {
+      "name": "How_I_Read_a_Chest_CT_9TdBLnSjACA_720p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-6227/How_I_Read_a_Chest_CT_9TdBLnSjACA_720p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/428078687",
+      "id": 428078687,
+      "size": 189460793,
+      "download_count": 0
+    }
+  ]
+}
