@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-8173",
+  "folder": "YouTube__watch_20260523195709_6f9378",
+  "base_name": "RadCast_Academy_Introduction_To_The_Chest_X-Ray_Common_Pathologies_cxr_QMEikTHtbXk_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-8173",
+  "files": [
+    {
+      "name": "RadCast_Academy_Introduction_To_The_Chest_X-Ray_Common_Pathologies_cxr_QMEikTHtbXk_720p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-8173/RadCast_Academy_Introduction_To_The_Chest_X-Ray_Common_Pathologies_cxr_QMEikTHtbXk_720p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/428076565",
+      "id": 428076565,
+      "size": 85794693,
+      "download_count": 0
+    }
+  ]
+}
