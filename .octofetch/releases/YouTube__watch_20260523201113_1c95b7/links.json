@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-3141",
+  "folder": "YouTube__watch_20260523201113_1c95b7",
+  "base_name": "Chest_Radiology_-_Patterns_-_Airspace_lacde9a6Zdk_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-3141",
+  "files": [
+    {
+      "name": "Chest_Radiology_-_Patterns_-_Airspace_lacde9a6Zdk_720p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-3141/Chest_Radiology_-_Patterns_-_Airspace_lacde9a6Zdk_720p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/428083476",
+      "id": 428083476,
+      "size": 32289905,
+      "download_count": 0
+    }
+  ]
+}
