@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-8028",
+  "folder": "YouTube__watch_20260523200323_97bee0",
+  "base_name": "Mastering_Chest_CT-_Technical_aspects_and_Protocols_HRCT_NCCT_CECT_Ang_JZGhZkWOmtI_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-8028",
+  "files": [
+    {
+      "name": "Mastering_Chest_CT-_Technical_aspects_and_Protocols_HRCT_NCCT_CECT_Ang_JZGhZkWOmtI_720p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-8028/Mastering_Chest_CT-_Technical_aspects_and_Protocols_HRCT_NCCT_CECT_Ang_JZGhZkWOmtI_720p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/428079799",
+      "id": 428079799,
+      "size": 134206372,
+      "download_count": 0
+    }
+  ]
+}
