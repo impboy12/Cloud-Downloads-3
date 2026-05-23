@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-6602",
+  "folder": "YouTube__watch_20260523194819_c2e5d9",
+  "base_name": "Introduction_to_CT_Chest_-_Anatomy_and_Approach_tJPfcmA-WWs_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-6602",
+  "files": [
+    {
+      "name": "Introduction_to_CT_Chest_-_Anatomy_and_Approach_tJPfcmA-WWs_720p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-6602/Introduction_to_CT_Chest_-_Anatomy_and_Approach_tJPfcmA-WWs_720p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/428073540",
+      "id": 428073540,
+      "size": 311236012,
+      "download_count": 0
+    }
+  ]
+}
