@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-9910",
+  "folder": "YouTube__watch_20260523195542_61465a",
+  "base_name": "Classic_Signs_Chest_Radiology_Board_Review_BYECB9gYBHc_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-9910",
+  "files": [
+    {
+      "name": "Classic_Signs_Chest_Radiology_Board_Review_BYECB9gYBHc_720p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-9910/Classic_Signs_Chest_Radiology_Board_Review_BYECB9gYBHc_720p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/428076129",
+      "id": 428076129,
+      "size": 126856265,
+      "download_count": 0
+    }
+  ]
+}
