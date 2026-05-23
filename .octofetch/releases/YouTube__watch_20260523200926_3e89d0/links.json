@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-4935",
+  "folder": "YouTube__watch_20260523200926_3e89d0",
+  "base_name": "Decoding_Chest_X-Ray_Like_a_Pro_with_Dr_Zainab_Vora_Conceptual_Radiolo_KKIxTGxBWHE_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-4935",
+  "files": [
+    {
+      "name": "Decoding_Chest_X-Ray_Like_a_Pro_with_Dr_Zainab_Vora_Conceptual_Radiolo_KKIxTGxBWHE_720p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-4935/Decoding_Chest_X-Ray_Like_a_Pro_with_Dr_Zainab_Vora_Conceptual_Radiolo_KKIxTGxBWHE_720p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/428082901",
+      "id": 428082901,
+      "size": 172166261,
+      "download_count": 0
+    }
+  ]
+}
