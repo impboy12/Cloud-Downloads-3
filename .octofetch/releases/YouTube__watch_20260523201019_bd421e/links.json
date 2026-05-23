@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-5010",
+  "folder": "YouTube__watch_20260523201019_bd421e",
+  "base_name": "X_Ray_-_CT_Chest_Type_of_Diseases_LIVE_AEjWhPXD5aA_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-5010",
+  "files": [
+    {
+      "name": "X_Ray_-_CT_Chest_Type_of_Diseases_LIVE_AEjWhPXD5aA_720p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-5010/X_Ray_-_CT_Chest_Type_of_Diseases_LIVE_AEjWhPXD5aA_720p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/428083173",
+      "id": 428083173,
+      "size": 152720967,
+      "download_count": 0
+    }
+  ]
+}
