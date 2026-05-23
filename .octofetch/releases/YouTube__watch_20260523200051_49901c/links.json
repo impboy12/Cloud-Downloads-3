@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-6541",
+  "folder": "YouTube__watch_20260523200051_49901c",
+  "base_name": "High-Resultion_CT_of_the_Chest_Case-Review_Webinar_wrd4glraC8g_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-6541",
+  "files": [
+    {
+      "name": "High-Resultion_CT_of_the_Chest_Case-Review_Webinar_wrd4glraC8g_720p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-6541/High-Resultion_CT_of_the_Chest_Case-Review_Webinar_wrd4glraC8g_720p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/428078184",
+      "id": 428078184,
+      "size": 88672444,
+      "download_count": 0
+    }
+  ]
+}
