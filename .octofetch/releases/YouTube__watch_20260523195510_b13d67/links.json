@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-8583",
+  "folder": "YouTube__watch_20260523195510_b13d67",
+  "base_name": "Pneumonia_Imaging_HBS-DJ9ez-c_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-8583",
+  "files": [
+    {
+      "name": "Pneumonia_Imaging_HBS-DJ9ez-c_720p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-8583/Pneumonia_Imaging_HBS-DJ9ez-c_720p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/428075912",
+      "id": 428075912,
+      "size": 30718155,
+      "download_count": 0
+    }
+  ]
+}
