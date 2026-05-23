@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-1129",
+  "folder": "YouTube__watch_20260523200236_602f57",
+  "base_name": "Pneumonia_Lung_Infections_AjsDKMs5Dug_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-1129",
+  "files": [
+    {
+      "name": "Pneumonia_Lung_Infections_AjsDKMs5Dug_720p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-1129/Pneumonia_Lung_Infections_AjsDKMs5Dug_720p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/428079145",
+      "id": 428079145,
+      "size": 63881888,
+      "download_count": 0
+    }
+  ]
+}
