@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-5313",
+  "folder": "YouTube__watch_20260523195059_16959c",
+  "base_name": "Lung_Sounds_Clinical_Application_Part_2_NCLEX_REVIEW_Normal_Abnormal_L_wwtVDY4zj8w_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-5313",
+  "files": [
+    {
+      "name": "Lung_Sounds_Clinical_Application_Part_2_NCLEX_REVIEW_Normal_Abnormal_L_wwtVDY4zj8w_720p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-5313/Lung_Sounds_Clinical_Application_Part_2_NCLEX_REVIEW_Normal_Abnormal_L_wwtVDY4zj8w_720p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/428074294",
+      "id": 428074294,
+      "size": 88454742,
+      "download_count": 0
+    }
+  ]
+}
