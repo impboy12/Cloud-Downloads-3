@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-9254",
+  "folder": "YouTube__watch_20260523195637_1c2664",
+  "base_name": "Interstitial_Lung_Disease_(ILD)_in_a_Nutshell_EqGT7IgUHU8_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-9254",
+  "files": [
+    {
+      "name": "Interstitial_Lung_Disease_.ILD._in_a_Nutshell_EqGT7IgUHU8_720p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-9254/Interstitial_Lung_Disease_.ILD._in_a_Nutshell_EqGT7IgUHU8_720p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/428076364",
+      "id": 428076364,
+      "size": 35228027,
+      "download_count": 0
+    }
+  ]
+}
