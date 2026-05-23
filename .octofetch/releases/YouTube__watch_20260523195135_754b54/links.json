@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-7907",
+  "folder": "YouTube__watch_20260523195135_754b54",
+  "base_name": "Chest_x-ray_case_review_vy8ZGlgEWMY_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-7907",
+  "files": [
+    {
+      "name": "Chest_x-ray_case_review_vy8ZGlgEWMY_720p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-7907/Chest_x-ray_case_review_vy8ZGlgEWMY_720p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/428074647",
+      "id": 428074647,
+      "size": 82046896,
+      "download_count": 0
+    }
+  ]
+}
