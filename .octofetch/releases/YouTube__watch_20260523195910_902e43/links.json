@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-5361",
+  "folder": "YouTube__watch_20260523195910_902e43",
+  "base_name": "10_MUST_KNOW_Chest_X-Rays_For_Medical_PA_Finals_CXRs_Made_Easy_rS4yU7Oinl0_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-5361",
+  "files": [
+    {
+      "name": "10_MUST_KNOW_Chest_X-Rays_For_Medical_PA_Finals_CXRs_Made_Easy_rS4yU7Oinl0_720p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-5361/10_MUST_KNOW_Chest_X-Rays_For_Medical_PA_Finals_CXRs_Made_Easy_rS4yU7Oinl0_720p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/428077359",
+      "id": 428077359,
+      "size": 119476047,
+      "download_count": 0
+    }
+  ]
+}
