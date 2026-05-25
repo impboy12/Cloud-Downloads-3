@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-1264",
+  "folder": "YouTube__watch_20260525152922_0cd6e6",
+  "base_name": "SNI_Spoofing_vpn_40QT-JiyhrI_480p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-1264",
+  "files": [
+    {
+      "name": "SNI_Spoofing_vpn_40QT-JiyhrI_480p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-1264/SNI_Spoofing_vpn_40QT-JiyhrI_480p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/429453770",
+      "id": 429453770,
+      "size": 21168197,
+      "download_count": 0
+    }
+  ]
+}
