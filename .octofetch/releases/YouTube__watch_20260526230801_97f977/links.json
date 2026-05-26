@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-8178",
+  "folder": "YouTube__watch_20260526230801_97f977",
+  "base_name": "He_made_two_Jarmens_(Tumstep_vs_Marakar)_n4XBnSvFosM_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-8178",
+  "files": [
+    {
+      "name": "He_made_two_Jarmens_.Tumstep_vs_Marakar._n4XBnSvFosM_720p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-8178/He_made_two_Jarmens_.Tumstep_vs_Marakar._n4XBnSvFosM_720p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/430577321",
+      "id": 430577321,
+      "size": 545351787,
+      "download_count": 0
+    }
+  ]
+}
