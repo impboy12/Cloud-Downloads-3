@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-6639",
+  "folder": "Movies__The.Boys.2019.S05E06.1080p.10bit.WEBRip.6CH.x265.PSA.AlphaDL_20260529233058_d586cc",
+  "base_name": "Movies__The.Boys.2019.S05E06.1080p.10bit.WEBRip.6CH.x265.PSA.AlphaDL_20260529233058_d586cc.mkv",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-6639",
+  "files": [
+    {
+      "name": "Movies__The.Boys.2019.S05E06.1080p.10bit.WEBRip.6CH.x265.PSA.AlphaDL_20260529233058_d586cc.mkv",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-6639/Movies__The.Boys.2019.S05E06.1080p.10bit.WEBRip.6CH.x265.PSA.AlphaDL_20260529233058_d586cc.mkv",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/433411345",
+      "id": 433411345,
+      "size": 947282998,
+      "download_count": 0
+    }
+  ]
+}
