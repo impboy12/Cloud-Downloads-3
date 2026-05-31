@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-7701",
+  "folder": "YouTube__watch_20260531233012_9af8af",
+  "base_name": "BPB__aXy8wwyRG8_480p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-7701",
+  "files": [
+    {
+      "name": "BPB__aXy8wwyRG8_480p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-7701/BPB__aXy8wwyRG8_480p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/434752981",
+      "id": 434752981,
+      "size": 38485289,
+      "download_count": 0
+    }
+  ]
+}
