@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-4447",
+  "folder": "YouTube__watch_20260604181210_b8303e",
+  "base_name": "HOW_TO_get_custom_highlight_colours_GYez47CaH3A_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-4447",
+  "files": [
+    {
+      "name": "HOW_TO_get_custom_highlight_colours_GYez47CaH3A_720p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-4447/HOW_TO_get_custom_highlight_colours_GYez47CaH3A_720p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/438533635",
+      "id": 438533635,
+      "size": 20984176,
+      "download_count": 0
+    }
+  ]
+}
