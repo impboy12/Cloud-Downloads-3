@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-1931",
+  "folder": "YouTube__watch_20260611042839_6bfb4a",
+  "base_name": "500_2v2_Challenge_DoMiNaToR_Tumstep_vs_ExCaL_Kill_Toll_zhnHI6rQylc_480p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-1931",
+  "files": [
+    {
+      "name": "500_2v2_Challenge_DoMiNaToR_Tumstep_vs_ExCaL_Kill_Toll_zhnHI6rQylc_480p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-1931/500_2v2_Challenge_DoMiNaToR_Tumstep_vs_ExCaL_Kill_Toll_zhnHI6rQylc_480p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/444344909",
+      "id": 444344909,
+      "size": 1399414089,
+      "download_count": 0
+    }
+  ]
+}
