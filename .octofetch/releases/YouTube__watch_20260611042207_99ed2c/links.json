@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-5255",
+  "folder": "YouTube__watch_20260611042207_99ed2c",
+  "base_name": "DoMiNaToR_vs_ViViD_-_Quarter_Finals_-_Nuke_Mirror_Tournament_qvl3AG8a2wQ_480p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-5255",
+  "files": [
+    {
+      "name": "DoMiNaToR_vs_ViViD_-_Quarter_Finals_-_Nuke_Mirror_Tournament_qvl3AG8a2wQ_480p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-5255/DoMiNaToR_vs_ViViD_-_Quarter_Finals_-_Nuke_Mirror_Tournament_qvl3AG8a2wQ_480p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/444340174",
+      "id": 444340174,
+      "size": 238032994,
+      "download_count": 0
+    }
+  ]
+}
