@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-7139",
+  "folder": "YouTube__watch_20260611043239_32eef7",
+  "base_name": "BoYcaH_vs_Tumstep_Stealth_vs_Air_Force_Oil_Rampage_vRF2zm10joo_480p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-7139",
+  "files": [
+    {
+      "name": "BoYcaH_vs_Tumstep_Stealth_vs_Air_Force_Oil_Rampage_vRF2zm10joo_480p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-7139/BoYcaH_vs_Tumstep_Stealth_vs_Air_Force_Oil_Rampage_vRF2zm10joo_480p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/444345710",
+      "id": 444345710,
+      "size": 119062138,
+      "download_count": 0
+    }
+  ]
+}
