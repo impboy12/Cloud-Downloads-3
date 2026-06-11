@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-9433",
+  "folder": "YouTube__watch_20260611042557_9283e9",
+  "base_name": "ExCaL_(usa)_vs_ViViD_(inf)_Mountain_Mayhem_Generals_Zero_Hour_g4CY8A8eASs_480p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-9433",
+  "files": [
+    {
+      "name": "ExCaL_.usa._vs_ViViD_.inf._Mountain_Mayhem_Generals_Zero_Hour_g4CY8A8eASs_480p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-9433/ExCaL_.usa._vs_ViViD_.inf._Mountain_Mayhem_Generals_Zero_Hour_g4CY8A8eASs_480p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/444341524",
+      "id": 444341524,
+      "size": 39995709,
+      "download_count": 0
+    }
+  ]
+}
