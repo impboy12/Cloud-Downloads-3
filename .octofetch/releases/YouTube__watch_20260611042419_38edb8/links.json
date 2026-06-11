@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-3430",
+  "folder": "YouTube__watch_20260611042419_38edb8",
+  "base_name": "THE_GREEN_BEAST_ViViD_vs_Marakar_SWG_vs_China_Drallim_Desert_PSMWaAFUfGI_480p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-3430",
+  "files": [
+    {
+      "name": "THE_GREEN_BEAST_ViViD_vs_Marakar_SWG_vs_China_Drallim_Desert_PSMWaAFUfGI_480p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-3430/THE_GREEN_BEAST_ViViD_vs_Marakar_SWG_vs_China_Drallim_Desert_PSMWaAFUfGI_480p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/444341152",
+      "id": 444341152,
+      "size": 65739533,
+      "download_count": 0
+    }
+  ]
+}
