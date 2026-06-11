@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-9693",
+  "folder": "YouTube__watch_20260611042126_7d7099",
+  "base_name": "ExCaL_vs_ViViD_Infantry_vs_GLA_Drallim_Desert_oe7wCXbRtak_480p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-9693",
+  "files": [
+    {
+      "name": "ExCaL_vs_ViViD_Infantry_vs_GLA_Drallim_Desert_oe7wCXbRtak_480p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-9693/ExCaL_vs_ViViD_Infantry_vs_GLA_Drallim_Desert_oe7wCXbRtak_480p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/444338918",
+      "id": 444338918,
+      "size": 41287739,
+      "download_count": 0
+    }
+  ]
+}
