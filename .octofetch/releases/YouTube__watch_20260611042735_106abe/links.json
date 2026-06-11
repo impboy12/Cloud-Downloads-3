@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-2386",
+  "folder": "YouTube__watch_20260611042735_106abe",
+  "base_name": "BoYcaH_vs_ViViD_Stealth_vs_Tank_TD_Generals_Zero_Hour_VeHMlTfamPw_480p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-2386",
+  "files": [
+    {
+      "name": "BoYcaH_vs_ViViD_Stealth_vs_Tank_TD_Generals_Zero_Hour_VeHMlTfamPw_480p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-2386/BoYcaH_vs_ViViD_Stealth_vs_Tank_TD_Generals_Zero_Hour_VeHMlTfamPw_480p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/444342669",
+      "id": 444342669,
+      "size": 82818521,
+      "download_count": 0
+    }
+  ]
+}
