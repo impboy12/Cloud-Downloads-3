@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-6586",
+  "folder": "YouTube__watch_20260611042639_09dc35",
+  "base_name": "ExCaL_vs_ViViD_Stealth_vs_Tank_Reverse_Oil_Rampage_Zv1nuDc90sA_480p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-6586",
+  "files": [
+    {
+      "name": "ExCaL_vs_ViViD_Stealth_vs_Tank_Reverse_Oil_Rampage_Zv1nuDc90sA_480p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-6586/ExCaL_vs_ViViD_Stealth_vs_Tank_Reverse_Oil_Rampage_Zv1nuDc90sA_480p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/444342115",
+      "id": 444342115,
+      "size": 160198671,
+      "download_count": 0
+    }
+  ]
+}
