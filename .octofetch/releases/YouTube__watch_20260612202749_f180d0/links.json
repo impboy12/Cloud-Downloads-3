@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-6552",
+  "folder": "YouTube__watch_20260612202749_f180d0",
+  "base_name": "How_to_Stop_Wasting_Your_Life_(Avoid_These_5_Things)_OgBF3N3MhYw_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-6552",
+  "files": [
+    {
+      "name": "How_to_Stop_Wasting_Your_Life_.Avoid_These_5_Things._OgBF3N3MhYw_720p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-6552/How_to_Stop_Wasting_Your_Life_.Avoid_These_5_Things._OgBF3N3MhYw_720p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/446023145",
+      "id": 446023145,
+      "size": 75233832,
+      "download_count": 0
+    }
+  ]
+}
