@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-8898",
+  "folder": "YouTube__watch_20260612213214_99d638",
+  "base_name": "A_Process_for_Finding_Achieving_Your_Unique_Purpose_Robert_Greene_50BZQRT1dAg_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-8898",
+  "files": [
+    {
+      "name": "A_Process_for_Finding_Achieving_Your_Unique_Purpose_Robert_Greene_50BZQRT1dAg_720p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-8898/A_Process_for_Finding_Achieving_Your_Unique_Purpose_Robert_Greene_50BZQRT1dAg_720p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/446066760",
+      "id": 446066760,
+      "size": 913386397,
+      "download_count": 0
+    }
+  ]
+}
