@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-3531",
+  "folder": "YouTube__watch_20260612023551_3dcc60",
+  "base_name": "The_ONE_Skill_Every_High_Performer_Needs_To_Master_5D0RV5AqFh4_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-3531",
+  "files": [
+    {
+      "name": "The_ONE_Skill_Every_High_Performer_Needs_To_Master_5D0RV5AqFh4_720p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-3531/The_ONE_Skill_Every_High_Performer_Needs_To_Master_5D0RV5AqFh4_720p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/445275363",
+      "id": 445275363,
+      "size": 95657178,
+      "download_count": 0
+    }
+  ]
+}
