@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-3450",
+  "folder": "YouTube__watch_20260612232325_5f4518",
+  "base_name": "How_to_become_a_memory_master_Idriz_Zogaj_TEDxGoteborg_9ebJlcZMx3c_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-3450",
+  "files": [
+    {
+      "name": "How_to_become_a_memory_master_Idriz_Zogaj_TEDxGoteborg_9ebJlcZMx3c_720p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-3450/How_to_become_a_memory_master_Idriz_Zogaj_TEDxGoteborg_9ebJlcZMx3c_720p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/446135631",
+      "id": 446135631,
+      "size": 57304741,
+      "download_count": 0
+    }
+  ]
+}
