@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-2499",
+  "folder": "YouTube__watch_20260612023211_54a495",
+  "base_name": "Everything_I_Learned_Sitting_in_Billion-Dollar_Boardrooms_yCCIDNvp5dk_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-2499",
+  "files": [
+    {
+      "name": "Everything_I_Learned_Sitting_in_Billion-Dollar_Boardrooms_yCCIDNvp5dk_720p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-2499/Everything_I_Learned_Sitting_in_Billion-Dollar_Boardrooms_yCCIDNvp5dk_720p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/445272863",
+      "id": 445272863,
+      "size": 119624810,
+      "download_count": 0
+    }
+  ]
+}
