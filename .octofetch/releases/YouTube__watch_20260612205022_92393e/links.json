@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-6809",
+  "folder": "YouTube__watch_20260612205022_92393e",
+  "base_name": "The_Iran_Economic_Shock_is_Coming_(How_to_Protect_Yourself)_MrNt_dQU-xk_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-6809",
+  "files": [
+    {
+      "name": "The_Iran_Economic_Shock_is_Coming_.How_to_Protect_Yourself._MrNt_dQU-xk_720p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-6809/The_Iran_Economic_Shock_is_Coming_.How_to_Protect_Yourself._MrNt_dQU-xk_720p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/446037548",
+      "id": 446037548,
+      "size": 91662533,
+      "download_count": 0
+    }
+  ]
+}
