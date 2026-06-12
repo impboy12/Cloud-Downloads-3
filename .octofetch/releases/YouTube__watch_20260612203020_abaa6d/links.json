@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-5707",
+  "folder": "YouTube__watch_20260612203020_abaa6d",
+  "base_name": "The_Most_Powerful_Way_to_Remember_What_You_Study_eVajQPuRmk8_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-5707",
+  "files": [
+    {
+      "name": "The_Most_Powerful_Way_to_Remember_What_You_Study_eVajQPuRmk8_720p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-5707/The_Most_Powerful_Way_to_Remember_What_You_Study_eVajQPuRmk8_720p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/446024757",
+      "id": 446024757,
+      "size": 28320342,
+      "download_count": 0
+    }
+  ]
+}
