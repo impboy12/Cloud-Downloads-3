@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-7082",
+  "folder": "YouTube__watch_20260612234118_1a3f73",
+  "base_name": "The_Book_That_Changed_My_Financial_Life_Gg8_TA7U0Uw_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-7082",
+  "files": [
+    {
+      "name": "The_Book_That_Changed_My_Financial_Life_Gg8_TA7U0Uw_720p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-7082/The_Book_That_Changed_My_Financial_Life_Gg8_TA7U0Uw_720p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/446149260",
+      "id": 446149260,
+      "size": 95409543,
+      "download_count": 0
+    }
+  ]
+}
