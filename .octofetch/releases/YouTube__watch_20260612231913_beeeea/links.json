@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-4544",
+  "folder": "YouTube__watch_20260612231913_beeeea",
+  "base_name": "How_not_to_take_things_personally_Frederik_Imbo_TEDxMechelen_LnJwH_PZXnM_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-4544",
+  "files": [
+    {
+      "name": "How_not_to_take_things_personally_Frederik_Imbo_TEDxMechelen_LnJwH_PZXnM_720p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-4544/How_not_to_take_things_personally_Frederik_Imbo_TEDxMechelen_LnJwH_PZXnM_720p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/446132294",
+      "id": 446132294,
+      "size": 61637197,
+      "download_count": 0
+    }
+  ]
+}
