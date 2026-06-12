@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-7860",
+  "folder": "YouTube__watch_20260612205256_d1ee28",
+  "base_name": "I_m_Changing_How_I_Invest_My_Money_Because_of_AI_O8t50OxsfB8_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-7860",
+  "files": [
+    {
+      "name": "I_m_Changing_How_I_Invest_My_Money_Because_of_AI_O8t50OxsfB8_720p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-7860/I_m_Changing_How_I_Invest_My_Money_Because_of_AI_O8t50OxsfB8_720p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/446039192",
+      "id": 446039192,
+      "size": 99573941,
+      "download_count": 0
+    }
+  ]
+}
