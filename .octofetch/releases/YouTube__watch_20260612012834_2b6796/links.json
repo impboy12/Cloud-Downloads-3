@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-2355",
+  "folder": "YouTube__watch_20260612012834_2b6796",
+  "base_name": "Psychology_Expert_How_To_Stop_Overthinking_All_The_Time_uMbUa0nfzk8_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-2355",
+  "files": [
+    {
+      "name": "Psychology_Expert_How_To_Stop_Overthinking_All_The_Time_uMbUa0nfzk8_720p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-2355/Psychology_Expert_How_To_Stop_Overthinking_All_The_Time_uMbUa0nfzk8_720p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/445228971",
+      "id": 445228971,
+      "size": 79129548,
+      "download_count": 0
+    }
+  ]
+}
