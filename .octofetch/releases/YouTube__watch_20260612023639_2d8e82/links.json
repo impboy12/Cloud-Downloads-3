@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-5345",
+  "folder": "YouTube__watch_20260612023639_2d8e82",
+  "base_name": "The_Notebook_System_That_Saved_My_Brain_BDde5vwj83E_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-5345",
+  "files": [
+    {
+      "name": "The_Notebook_System_That_Saved_My_Brain_BDde5vwj83E_720p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-5345/The_Notebook_System_That_Saved_My_Brain_BDde5vwj83E_720p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/445275923",
+      "id": 445275923,
+      "size": 99315570,
+      "download_count": 0
+    }
+  ]
+}
