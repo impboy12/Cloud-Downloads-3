@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-6095",
+  "folder": "YouTube__watch_20260612022355_012434",
+  "base_name": "You_re_Not_Behind_(Yet)_How_to_Learn_AI_in_17_Minutes_EWFFaKxsz_s_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-6095",
+  "files": [
+    {
+      "name": "You_re_Not_Behind_.Yet._How_to_Learn_AI_in_17_Minutes_EWFFaKxsz_s_720p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-6095/You_re_Not_Behind_.Yet._How_to_Learn_AI_in_17_Minutes_EWFFaKxsz_s_720p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/445266600",
+      "id": 445266600,
+      "size": 118526292,
+      "download_count": 0
+    }
+  ]
+}
