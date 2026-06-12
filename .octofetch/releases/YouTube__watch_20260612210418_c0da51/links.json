@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-2882",
+  "folder": "YouTube__watch_20260612210418_c0da51",
+  "base_name": "Applying_Military_Strategy_in_Life_-_Microsoft_Talk_Pmx2cbLGzzo_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-2882",
+  "files": [
+    {
+      "name": "Applying_Military_Strategy_in_Life_-_Microsoft_Talk_Pmx2cbLGzzo_720p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-2882/Applying_Military_Strategy_in_Life_-_Microsoft_Talk_Pmx2cbLGzzo_720p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/446047919",
+      "id": 446047919,
+      "size": 366930773,
+      "download_count": 0
+    }
+  ]
+}
