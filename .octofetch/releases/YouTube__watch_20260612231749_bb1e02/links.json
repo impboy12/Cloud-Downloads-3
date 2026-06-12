@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-9837",
+  "folder": "YouTube__watch_20260612231749_bb1e02",
+  "base_name": "7_Ways_to_Make_a_Conversation_With_Anyone_Malavika_Varadan_TEDxBITSPil_F4Zu5ZZAG7I_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-9837",
+  "files": [
+    {
+      "name": "7_Ways_to_Make_a_Conversation_With_Anyone_Malavika_Varadan_TEDxBITSPil_F4Zu5ZZAG7I_720p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-9837/7_Ways_to_Make_a_Conversation_With_Anyone_Malavika_Varadan_TEDxBITSPil_F4Zu5ZZAG7I_720p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/446130884",
+      "id": 446130884,
+      "size": 50031403,
+      "download_count": 0
+    }
+  ]
+}
