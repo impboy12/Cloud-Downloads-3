@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-3026",
+  "folder": "YouTube__watch_20260612211349_ba4e1b",
+  "base_name": "Leverage_Dopamine_to_Overcome_Procrastination_Optimize_Effort_K-TW2Chpz4k_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-3026",
+  "files": [
+    {
+      "name": "Leverage_Dopamine_to_Overcome_Procrastination_Optimize_Effort_K-TW2Chpz4k_720p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-3026/Leverage_Dopamine_to_Overcome_Procrastination_Optimize_Effort_K-TW2Chpz4k_720p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/446054951",
+      "id": 446054951,
+      "size": 392080760,
+      "download_count": 0
+    }
+  ]
+}
