@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-7249",
+  "folder": "YouTube__watch_20260612211516_dd5618",
+  "base_name": "How_to_Stop_Procrastination_Increase_Motivation_Dr_Andrew_Huberman_48jlHaxZnig_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-7249",
+  "files": [
+    {
+      "name": "How_to_Stop_Procrastination_Increase_Motivation_Dr_Andrew_Huberman_48jlHaxZnig_720p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-7249/How_to_Stop_Procrastination_Increase_Motivation_Dr_Andrew_Huberman_48jlHaxZnig_720p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/446055528",
+      "id": 446055528,
+      "size": 27102209,
+      "download_count": 0
+    }
+  ]
+}
