@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-4635",
+  "folder": "YouTube__watch_20260612202836_5e6739",
+  "base_name": "How_to_Stop_Being_TIRED_All_the_Time_HmZs6_CJ_u8_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-4635",
+  "files": [
+    {
+      "name": "How_to_Stop_Being_TIRED_All_the_Time_HmZs6_CJ_u8_720p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-4635/How_to_Stop_Being_TIRED_All_the_Time_HmZs6_CJ_u8_720p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/446023720",
+      "id": 446023720,
+      "size": 135983999,
+      "download_count": 0
+    }
+  ]
+}
