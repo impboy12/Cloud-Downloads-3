@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-9731",
+  "folder": "YouTube__watch_20260612210622_6f8416",
+  "base_name": "Master_the_Art_of_Seduction_BO7MOdsuB5k_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-9731",
+  "files": [
+    {
+      "name": "Master_the_Art_of_Seduction_BO7MOdsuB5k_720p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-9731/Master_the_Art_of_Seduction_BO7MOdsuB5k_720p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/446050024",
+      "id": 446050024,
+      "size": 49643735,
+      "download_count": 0
+    }
+  ]
+}
