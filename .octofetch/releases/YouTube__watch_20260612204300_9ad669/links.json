@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-4665",
+  "folder": "YouTube__watch_20260612204300_9ad669",
+  "base_name": "6_Books_That_Completely_Changed_My_Life_8C_uRDPQvSE_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-4665",
+  "files": [
+    {
+      "name": "6_Books_That_Completely_Changed_My_Life_8C_uRDPQvSE_720p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-4665/6_Books_That_Completely_Changed_My_Life_8C_uRDPQvSE_720p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/446032959",
+      "id": 446032959,
+      "size": 36535128,
+      "download_count": 0
+    }
+  ]
+}
