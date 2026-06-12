@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-5033",
+  "folder": "YouTube__watch_20260612013218_717a90",
+  "base_name": "How_To_Win_(Almost)_Every_Argument_JY5t6iUzajk_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-5033",
+  "files": [
+    {
+      "name": "How_To_Win_.Almost._Every_Argument_JY5t6iUzajk_720p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-5033/How_To_Win_.Almost._Every_Argument_JY5t6iUzajk_720p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/445231182",
+      "id": 445231182,
+      "size": 37848683,
+      "download_count": 0
+    }
+  ]
+}
