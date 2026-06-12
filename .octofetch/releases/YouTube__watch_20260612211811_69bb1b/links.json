@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-1025",
+  "folder": "YouTube__watch_20260612211811_69bb1b",
+  "base_name": "The_procrastination_cure_you_don_t_want_to_hear_iow5V3Qlvwo_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-1025",
+  "files": [
+    {
+      "name": "The_procrastination_cure_you_don_t_want_to_hear_iow5V3Qlvwo_720p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-1025/The_procrastination_cure_you_don_t_want_to_hear_iow5V3Qlvwo_720p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/446057677",
+      "id": 446057677,
+      "size": 31900741,
+      "download_count": 0
+    }
+  ]
+}
