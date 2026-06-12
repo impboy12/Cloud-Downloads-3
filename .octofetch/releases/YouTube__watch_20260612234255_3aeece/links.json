@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-6885",
+  "folder": "YouTube__watch_20260612234255_3aeece",
+  "base_name": "If_I_Started_a_YouTube_Channel_in_2026_I_d_Do_This_T2M9hSswlIs_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-6885",
+  "files": [
+    {
+      "name": "If_I_Started_a_YouTube_Channel_in_2026_I_d_Do_This_T2M9hSswlIs_720p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-6885/If_I_Started_a_YouTube_Channel_in_2026_I_d_Do_This_T2M9hSswlIs_720p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/446150173",
+      "id": 446150173,
+      "size": 71609120,
+      "download_count": 0
+    }
+  ]
+}
