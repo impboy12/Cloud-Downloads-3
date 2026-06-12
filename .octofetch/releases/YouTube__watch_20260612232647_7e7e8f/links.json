@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-2019",
+  "folder": "YouTube__watch_20260612232647_7e7e8f",
+  "base_name": "How_to_schedule_deep_work_Time_blocking_Cal_Newport_and_Lex_Fridman_ykNcnrNvpTI_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-2019",
+  "files": [
+    {
+      "name": "How_to_schedule_deep_work_Time_blocking_Cal_Newport_and_Lex_Fridman_ykNcnrNvpTI_720p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-2019/How_to_schedule_deep_work_Time_blocking_Cal_Newport_and_Lex_Fridman_ykNcnrNvpTI_720p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/446138179",
+      "id": 446138179,
+      "size": 31535374,
+      "download_count": 0
+    }
+  ]
+}
