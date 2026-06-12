@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-5895",
+  "folder": "YouTube__watch_20260612204207_e94f11",
+  "base_name": "The_5_Hour_Rule_27fQl4oRlBI_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-5895",
+  "files": [
+    {
+      "name": "The_5_Hour_Rule_27fQl4oRlBI_720p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-5895/The_5_Hour_Rule_27fQl4oRlBI_720p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/446032295",
+      "id": 446032295,
+      "size": 82467972,
+      "download_count": 0
+    }
+  ]
+}
