@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-7893",
+  "folder": "YouTube__watch_20260612234835_d164d4",
+  "base_name": "My_honest_advice_to_someone_who_wants_financial_freedom_BBAuhqvT_ds_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-7893",
+  "files": [
+    {
+      "name": "My_honest_advice_to_someone_who_wants_financial_freedom_BBAuhqvT_ds_720p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-7893/My_honest_advice_to_someone_who_wants_financial_freedom_BBAuhqvT_ds_720p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/446153033",
+      "id": 446153033,
+      "size": 255073141,
+      "download_count": 0
+    }
+  ]
+}
