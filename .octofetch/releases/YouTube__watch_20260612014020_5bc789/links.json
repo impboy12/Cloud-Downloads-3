@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-1514",
+  "folder": "YouTube__watch_20260612014020_5bc789",
+  "base_name": "BEST_WORKER_HUNT_IN_ZERO_HOUR_SiZe_vs_Marakar_Nuke_vs_Demo_AY6b9DoosMM_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-1514",
+  "files": [
+    {
+      "name": "BEST_WORKER_HUNT_IN_ZERO_HOUR_SiZe_vs_Marakar_Nuke_vs_Demo_AY6b9DoosMM_720p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-1514/BEST_WORKER_HUNT_IN_ZERO_HOUR_SiZe_vs_Marakar_Nuke_vs_Demo_AY6b9DoosMM_720p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/445236484",
+      "id": 445236484,
+      "size": 525582653,
+      "download_count": 0
+    }
+  ]
+}
