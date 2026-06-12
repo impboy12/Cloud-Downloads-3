@@ -1,0 +1,27 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-1176",
+  "folder": "YouTube__watch_20260612014135_6d9c6b",
+  "base_name": "Generals_Zero_Hour_-_Excal_vs_Size_-_250_Super_BO15_Challenge_lA-BRLyeV1k_720p.mp4",
+  "is_split": true,
+  "part_count": 2,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-1176",
+  "files": [
+    {
+      "name": "Generals_Zero_Hour_-_Excal_vs_Size_-_250_Super_BO15_Challenge_lA-BRLyeV1k_720p.mp4.part00",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-1176/Generals_Zero_Hour_-_Excal_vs_Size_-_250_Super_BO15_Challenge_lA-BRLyeV1k_720p.mp4.part00",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/445241727",
+      "id": 445241727,
+      "size": 1587741542,
+      "download_count": 0
+    },
+    {
+      "name": "Generals_Zero_Hour_-_Excal_vs_Size_-_250_Super_BO15_Challenge_lA-BRLyeV1k_720p.mp4.part01",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-1176/Generals_Zero_Hour_-_Excal_vs_Size_-_250_Super_BO15_Challenge_lA-BRLyeV1k_720p.mp4.part01",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/445242265",
+      "id": 445242265,
+      "size": 1587741542,
+      "download_count": 0
+    }
+  ]
+}
