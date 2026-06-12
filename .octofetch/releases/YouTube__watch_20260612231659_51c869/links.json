@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-5552",
+  "folder": "YouTube__watch_20260612231659_51c869",
+  "base_name": "How_to_stop_screwing_yourself_over_Mel_Robbins_TEDxSF_Lp7E973zozc_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-5552",
+  "files": [
+    {
+      "name": "How_to_stop_screwing_yourself_over_Mel_Robbins_TEDxSF_Lp7E973zozc_720p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-5552/How_to_stop_screwing_yourself_over_Mel_Robbins_TEDxSF_Lp7E973zozc_720p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/446130183",
+      "id": 446130183,
+      "size": 85861702,
+      "download_count": 0
+    }
+  ]
+}
