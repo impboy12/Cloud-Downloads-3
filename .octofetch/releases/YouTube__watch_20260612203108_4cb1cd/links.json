@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-3945",
+  "folder": "YouTube__watch_20260612203108_4cb1cd",
+  "base_name": "How_to_Make_Yourself_Study_When_You_Have_ZERO_Motivation_9oWOsocN7qg_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-3945",
+  "files": [
+    {
+      "name": "How_to_Make_Yourself_Study_When_You_Have_ZERO_Motivation_9oWOsocN7qg_720p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-3945/How_to_Make_Yourself_Study_When_You_Have_ZERO_Motivation_9oWOsocN7qg_720p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/446025378",
+      "id": 446025378,
+      "size": 84297135,
+      "download_count": 0
+    }
+  ]
+}
