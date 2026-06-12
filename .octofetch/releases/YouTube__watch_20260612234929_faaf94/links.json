@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-8922",
+  "folder": "YouTube__watch_20260612234929_faaf94",
+  "base_name": "This_Book_Changed_my_Love_Life_kM0ZADKIXU8_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-8922",
+  "files": [
+    {
+      "name": "This_Book_Changed_my_Love_Life_kM0ZADKIXU8_720p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-8922/This_Book_Changed_my_Love_Life_kM0ZADKIXU8_720p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/446153556",
+      "id": 446153556,
+      "size": 135682168,
+      "download_count": 0
+    }
+  ]
+}
