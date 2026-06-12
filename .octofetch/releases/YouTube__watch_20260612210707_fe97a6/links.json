@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-9078",
+  "folder": "YouTube__watch_20260612210707_fe97a6",
+  "base_name": "How_to_Achieve_the_Highest_Form_of_Power_Robert_Greene_zeVNGhKEjtk_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-9078",
+  "files": [
+    {
+      "name": "How_to_Achieve_the_Highest_Form_of_Power_Robert_Greene_zeVNGhKEjtk_720p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-9078/How_to_Achieve_the_Highest_Form_of_Power_Robert_Greene_zeVNGhKEjtk_720p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/446050677",
+      "id": 446050677,
+      "size": 118993141,
+      "download_count": 0
+    }
+  ]
+}
