@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-7182",
+  "folder": "YouTube__watch_20260612020852_eec346",
+  "base_name": "Master_Your_Sleep_Be_More_Alert_When_Awake_nm1TxQj9IsQ_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-7182",
+  "files": [
+    {
+      "name": "Master_Your_Sleep_Be_More_Alert_When_Awake_nm1TxQj9IsQ_720p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-7182/Master_Your_Sleep_Be_More_Alert_When_Awake_nm1TxQj9IsQ_720p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/445256371",
+      "id": 445256371,
+      "size": 299690035,
+      "download_count": 0
+    }
+  ]
+}
