@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-8851",
+  "folder": "YouTube__watch_20260612234517_6073ca",
+  "base_name": "How_I_Remember_Everything_I_Read_AjoxkxM_I5g_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-8851",
+  "files": [
+    {
+      "name": "How_I_Remember_Everything_I_Read_AjoxkxM_I5g_720p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-8851/How_I_Remember_Everything_I_Read_AjoxkxM_I5g_720p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/446151329",
+      "id": 446151329,
+      "size": 136040073,
+      "download_count": 0
+    }
+  ]
+}
