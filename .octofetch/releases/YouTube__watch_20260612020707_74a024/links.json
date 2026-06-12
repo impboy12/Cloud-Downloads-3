@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-5320",
+  "folder": "YouTube__watch_20260612020707_74a024",
+  "base_name": "How_to_Succeed_at_Hard_Conversations_Chris_Voss_q8CHXefn7B4_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-5320",
+  "files": [
+    {
+      "name": "How_to_Succeed_at_Hard_Conversations_Chris_Voss_q8CHXefn7B4_720p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-5320/How_to_Succeed_at_Hard_Conversations_Chris_Voss_q8CHXefn7B4_720p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/445254956",
+      "id": 445254956,
+      "size": 470171393,
+      "download_count": 0
+    }
+  ]
+}
