@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-1583",
+  "folder": "YouTube__watch_20260612231529_04a69c",
+  "base_name": "The_Secrets_and_Science_of_Mental_Toughness_Joe_Risser_MD_MPH_TEDxSanD_rNxC16mlO60_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-1583",
+  "files": [
+    {
+      "name": "The_Secrets_and_Science_of_Mental_Toughness_Joe_Risser_MD_MPH_TEDxSanD_rNxC16mlO60_720p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-1583/The_Secrets_and_Science_of_Mental_Toughness_Joe_Risser_MD_MPH_TEDxSanD_rNxC16mlO60_720p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/446129019",
+      "id": 446129019,
+      "size": 40633594,
+      "download_count": 0
+    }
+  ]
+}
