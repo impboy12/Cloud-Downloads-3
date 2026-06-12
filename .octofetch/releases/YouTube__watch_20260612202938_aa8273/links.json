@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-1422",
+  "folder": "YouTube__watch_20260612202938_aa8273",
+  "base_name": "Study_Less_Study_Smart_A_6-Minute_Summary_of_Marty_Lobdell_s_Lecture_-_23Xqu0jXlfs_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-1422",
+  "files": [
+    {
+      "name": "Study_Less_Study_Smart_A_6-Minute_Summary_of_Marty_Lobdell_s_Lecture_-_23Xqu0jXlfs_720p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-1422/Study_Less_Study_Smart_A_6-Minute_Summary_of_Marty_Lobdell_s_Lecture_-_23Xqu0jXlfs_720p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/446024101",
+      "id": 446024101,
+      "size": 41658597,
+      "download_count": 0
+    }
+  ]
+}
