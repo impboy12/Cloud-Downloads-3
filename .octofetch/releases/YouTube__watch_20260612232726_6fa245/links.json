@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-5931",
+  "folder": "YouTube__watch_20260612232726_6fa245",
+  "base_name": "Maximize_Productivity_With_These_Time_Management_Tools_Dr_Cal_Newport__T4dser6ssp0_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-5931",
+  "files": [
+    {
+      "name": "Maximize_Productivity_With_These_Time_Management_Tools_Dr_Cal_Newport__T4dser6ssp0_720p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-5931/Maximize_Productivity_With_These_Time_Management_Tools_Dr_Cal_Newport__T4dser6ssp0_720p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/446138571",
+      "id": 446138571,
+      "size": 36031805,
+      "download_count": 0
+    }
+  ]
+}
