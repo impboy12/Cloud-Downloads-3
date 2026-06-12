@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-1447",
+  "folder": "YouTube__watch_20260612203246_61c51e",
+  "base_name": "How_to_Be_More_DISCIPLINED_-_6_Ways_to_Master_Self_Control_X3vRK2P9lSU_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-1447",
+  "files": [
+    {
+      "name": "How_to_Be_More_DISCIPLINED_-_6_Ways_to_Master_Self_Control_X3vRK2P9lSU_720p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-1447/How_to_Be_More_DISCIPLINED_-_6_Ways_to_Master_Self_Control_X3vRK2P9lSU_720p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/446026289",
+      "id": 446026289,
+      "size": 39796992,
+      "download_count": 0
+    }
+  ]
+}
