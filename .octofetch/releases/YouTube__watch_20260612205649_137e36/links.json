@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-1031",
+  "folder": "YouTube__watch_20260612205649_137e36",
+  "base_name": "Investing_For_Beginners_in_2026_(Start_With_Just_100)_jw_CWHs2YDU_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-1031",
+  "files": [
+    {
+      "name": "Investing_For_Beginners_in_2026_.Start_With_Just_100._jw_CWHs2YDU_720p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-1031/Investing_For_Beginners_in_2026_.Start_With_Just_100._jw_CWHs2YDU_720p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/446041877",
+      "id": 446041877,
+      "size": 119257407,
+      "download_count": 0
+    }
+  ]
+}
