@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-8318",
+  "folder": "YouTube__watch_20260612021324_cc852a",
+  "base_name": "How_to_Find_a_Career_You_Genuinely_Love_O3m14PVOq_g_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-8318",
+  "files": [
+    {
+      "name": "How_to_Find_a_Career_You_Genuinely_Love_O3m14PVOq_g_720p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-8318/How_to_Find_a_Career_You_Genuinely_Love_O3m14PVOq_g_720p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/445259509",
+      "id": 445259509,
+      "size": 69268859,
+      "download_count": 0
+    }
+  ]
+}
