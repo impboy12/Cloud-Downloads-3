@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-2611",
+  "folder": "YouTube__watch_20260612234658_e64e24",
+  "base_name": "What_Makes_People_Successful_RGbCR_pq4_A_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-2611",
+  "files": [
+    {
+      "name": "What_Makes_People_Successful_RGbCR_pq4_A_720p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-2611/What_Makes_People_Successful_RGbCR_pq4_A_720p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/446152112",
+      "id": 446152112,
+      "size": 43844704,
+      "download_count": 0
+    }
+  ]
+}
