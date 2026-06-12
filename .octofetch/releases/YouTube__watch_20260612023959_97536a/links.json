@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-1469",
+  "folder": "YouTube__watch_20260612023959_97536a",
+  "base_name": "These_Simple_Principles_Will_Make_You_10x_Better_At_Anything_Jqp7tADBkY8_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-1469",
+  "files": [
+    {
+      "name": "These_Simple_Principles_Will_Make_You_10x_Better_At_Anything_Jqp7tADBkY8_720p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-1469/These_Simple_Principles_Will_Make_You_10x_Better_At_Anything_Jqp7tADBkY8_720p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/445277578",
+      "id": 445277578,
+      "size": 89948709,
+      "download_count": 0
+    }
+  ]
+}
