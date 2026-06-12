@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-9581",
+  "folder": "YouTube__watch_20260612210803_58fb2d",
+  "base_name": "3_Books_That_Will_Change_Your_Life_OTvm5LfhDzg_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-9581",
+  "files": [
+    {
+      "name": "3_Books_That_Will_Change_Your_Life_OTvm5LfhDzg_720p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-9581/3_Books_That_Will_Change_Your_Life_OTvm5LfhDzg_720p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/446051127",
+      "id": 446051127,
+      "size": 20802216,
+      "download_count": 0
+    }
+  ]
+}
