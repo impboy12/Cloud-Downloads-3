@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-1227",
+  "folder": "YouTube__watch_20260612012203_da77dd",
+  "base_name": "Steve_Jobs_Taught_Me_One_Guaranteed_SUCCESS_Formula_motivation_stevejo_dHVMujryp40_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-1227",
+  "files": [
+    {
+      "name": "Steve_Jobs_Taught_Me_One_Guaranteed_SUCCESS_Formula_motivation_stevejo_dHVMujryp40_720p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-1227/Steve_Jobs_Taught_Me_One_Guaranteed_SUCCESS_Formula_motivation_stevejo_dHVMujryp40_720p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/445224251",
+      "id": 445224251,
+      "size": 16660889,
+      "download_count": 0
+    }
+  ]
+}
