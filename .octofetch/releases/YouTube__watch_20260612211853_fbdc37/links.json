@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-2076",
+  "folder": "YouTube__watch_20260612211853_fbdc37",
+  "base_name": "The_ONLY_Way_To_Stop_Procrastinating_Mel_Robbins_4x7MkLDGnu8_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-2076",
+  "files": [
+    {
+      "name": "The_ONLY_Way_To_Stop_Procrastinating_Mel_Robbins_4x7MkLDGnu8_720p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-2076/The_ONLY_Way_To_Stop_Procrastinating_Mel_Robbins_4x7MkLDGnu8_720p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/446058041",
+      "id": 446058041,
+      "size": 15256840,
+      "download_count": 0
+    }
+  ]
+}
