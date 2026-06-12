@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-7215",
+  "folder": "YouTube__watch_20260612012240_cd94b6",
+  "base_name": "Stop_Asking_Boring_Questions_Do_This_Instead_cHyYlFCaXPM_480p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-7215",
+  "files": [
+    {
+      "name": "Stop_Asking_Boring_Questions_Do_This_Instead_cHyYlFCaXPM_480p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-7215/Stop_Asking_Boring_Questions_Do_This_Instead_cHyYlFCaXPM_480p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/445224785",
+      "id": 445224785,
+      "size": 42413275,
+      "download_count": 0
+    }
+  ]
+}
