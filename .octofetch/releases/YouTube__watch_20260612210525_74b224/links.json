@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-9320",
+  "folder": "YouTube__watch_20260612210525_74b224",
+  "base_name": "The_48_Laws_of_Power_in_Under_30_Minutes_Su36tpkuo1I_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-9320",
+  "files": [
+    {
+      "name": "The_48_Laws_of_Power_in_Under_30_Minutes_Su36tpkuo1I_720p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-9320/The_48_Laws_of_Power_in_Under_30_Minutes_Su36tpkuo1I_720p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/446049042",
+      "id": 446049042,
+      "size": 94958903,
+      "download_count": 0
+    }
+  ]
+}
