@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-9709",
+  "folder": "YouTube__watch_20260612020338_56eccc",
+  "base_name": "The_Science_Practice_of_Perfecting_Your_Sleep_Dr_Matt_Walker_gbQFSMayJxk_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-9709",
+  "files": [
+    {
+      "name": "The_Science_Practice_of_Perfecting_Your_Sleep_Dr_Matt_Walker_gbQFSMayJxk_720p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-9709/The_Science_Practice_of_Perfecting_Your_Sleep_Dr_Matt_Walker_gbQFSMayJxk_720p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/445252775",
+      "id": 445252775,
+      "size": 610032837,
+      "download_count": 0
+    }
+  ]
+}
