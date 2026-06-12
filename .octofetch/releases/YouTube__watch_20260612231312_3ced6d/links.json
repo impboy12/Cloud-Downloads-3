@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-1498",
+  "folder": "YouTube__watch_20260612231312_3ced6d",
+  "base_name": "After_watching_this_your_brain_will_not_be_the_same_Lara_Boyd_TEDxVanc_LNHBMFCzznE_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-1498",
+  "files": [
+    {
+      "name": "After_watching_this_your_brain_will_not_be_the_same_Lara_Boyd_TEDxVanc_LNHBMFCzznE_720p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-1498/After_watching_this_your_brain_will_not_be_the_same_Lara_Boyd_TEDxVanc_LNHBMFCzznE_720p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/446126470",
+      "id": 446126470,
+      "size": 71332168,
+      "download_count": 0
+    }
+  ]
+}
