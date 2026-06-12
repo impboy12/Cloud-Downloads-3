@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-5358",
+  "folder": "YouTube__watch_20260612013000_a888a8",
+  "base_name": "How_To_Effortlessly_Defend_Yourself_In_Any_Argument_XGVUHPl4YuI_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-5358",
+  "files": [
+    {
+      "name": "How_To_Effortlessly_Defend_Yourself_In_Any_Argument_XGVUHPl4YuI_720p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-5358/How_To_Effortlessly_Defend_Yourself_In_Any_Argument_XGVUHPl4YuI_720p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/445229851",
+      "id": 445229851,
+      "size": 67832009,
+      "download_count": 0
+    }
+  ]
+}
