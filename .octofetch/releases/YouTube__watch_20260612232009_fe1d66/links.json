@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-4940",
+  "folder": "YouTube__watch_20260612232009_fe1d66",
+  "base_name": "Why_I_stopped_watching_porn_Ran_Gavrieli_TEDxJaffa_gRJ_QfP2mhU_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-4940",
+  "files": [
+    {
+      "name": "Why_I_stopped_watching_porn_Ran_Gavrieli_TEDxJaffa_gRJ_QfP2mhU_720p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-4940/Why_I_stopped_watching_porn_Ran_Gavrieli_TEDxJaffa_gRJ_QfP2mhU_720p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/446132695",
+      "id": 446132695,
+      "size": 62083763,
+      "download_count": 0
+    }
+  ]
+}
