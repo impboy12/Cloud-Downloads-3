@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-8058",
+  "folder": "YouTube__watch_20260612232239_769157",
+  "base_name": "Why_I_read_a_book_a_day_(and_why_you_should_too)_the_law_of_33_Tai_Lop_7bB_fVDlvhc_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-8058",
+  "files": [
+    {
+      "name": "Why_I_read_a_book_a_day_.and_why_you_should_too._the_law_of_33_Tai_Lop_7bB_fVDlvhc_720p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-8058/Why_I_read_a_book_a_day_.and_why_you_should_too._the_law_of_33_Tai_Lop_7bB_fVDlvhc_720p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/446135101",
+      "id": 446135101,
+      "size": 141419070,
+      "download_count": 0
+    }
+  ]
+}
