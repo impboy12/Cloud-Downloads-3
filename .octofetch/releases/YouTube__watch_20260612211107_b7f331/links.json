@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-8170",
+  "folder": "YouTube__watch_20260612211107_b7f331",
+  "base_name": "The_Psychology_of_Money_in_33_minutes_Animated_Book_Summary_jPPzvuDIr1w_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-8170",
+  "files": [
+    {
+      "name": "The_Psychology_of_Money_in_33_minutes_Animated_Book_Summary_jPPzvuDIr1w_720p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-8170/The_Psychology_of_Money_in_33_minutes_Animated_Book_Summary_jPPzvuDIr1w_720p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/446053258",
+      "id": 446053258,
+      "size": 101335937,
+      "download_count": 0
+    }
+  ]
+}
