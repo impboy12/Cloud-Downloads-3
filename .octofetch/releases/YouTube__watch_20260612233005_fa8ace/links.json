@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-7571",
+  "folder": "YouTube__watch_20260612233005_fa8ace",
+  "base_name": "Timeboxing_Elon_Musk_s_Time_Management_Method_fbAYK4KQrso_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-7571",
+  "files": [
+    {
+      "name": "Timeboxing_Elon_Musk_s_Time_Management_Method_fbAYK4KQrso_720p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-7571/Timeboxing_Elon_Musk_s_Time_Management_Method_fbAYK4KQrso_720p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/446140020",
+      "id": 446140020,
+      "size": 43151589,
+      "download_count": 0
+    }
+  ]
+}
