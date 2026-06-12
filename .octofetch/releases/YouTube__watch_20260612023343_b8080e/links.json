@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-6990",
+  "folder": "YouTube__watch_20260612023343_b8080e",
+  "base_name": "Everything_I_Learned_at_MIT_(That_Made_Me_a_Multimillionaire)_WrTKDJPyfU0_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-6990",
+  "files": [
+    {
+      "name": "Everything_I_Learned_at_MIT_.That_Made_Me_a_Multimillionaire._WrTKDJPyfU0_720p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-6990/Everything_I_Learned_at_MIT_.That_Made_Me_a_Multimillionaire._WrTKDJPyfU0_720p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/445273859",
+      "id": 445273859,
+      "size": 87477706,
+      "download_count": 0
+    }
+  ]
+}
