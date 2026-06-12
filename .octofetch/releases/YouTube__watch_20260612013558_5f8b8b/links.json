@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-6895",
+  "folder": "YouTube__watch_20260612013558_5f8b8b",
+  "base_name": "Rage_vs_Size_Dubai_LAN_Tournament_Match_2_Generals_Zero_Hour_4qevLRg77HY_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-6895",
+  "files": [
+    {
+      "name": "Rage_vs_Size_Dubai_LAN_Tournament_Match_2_Generals_Zero_Hour_4qevLRg77HY_720p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-6895/Rage_vs_Size_Dubai_LAN_Tournament_Match_2_Generals_Zero_Hour_4qevLRg77HY_720p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/445234911",
+      "id": 445234911,
+      "size": 1739973266,
+      "download_count": 0
+    }
+  ]
+}
