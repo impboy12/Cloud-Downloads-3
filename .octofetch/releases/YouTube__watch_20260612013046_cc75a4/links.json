@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-6563",
+  "folder": "YouTube__watch_20260612013046_cc75a4",
+  "base_name": "Powerful_Habits_Of_The_Insanely_Wealthy_liJbB_0eCTo_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-6563",
+  "files": [
+    {
+      "name": "Powerful_Habits_Of_The_Insanely_Wealthy_liJbB_0eCTo_720p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-6563/Powerful_Habits_Of_The_Insanely_Wealthy_liJbB_0eCTo_720p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/445230318",
+      "id": 445230318,
+      "size": 139629149,
+      "download_count": 0
+    }
+  ]
+}
