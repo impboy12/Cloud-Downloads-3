@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-8153",
+  "folder": "YouTube__watch_20260612204706_156416",
+  "base_name": "After_I_Read_40_Books_on_Money_-_Here_s_What_Will_Make_You_Rich_hBtxSzKhM44_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-8153",
+  "files": [
+    {
+      "name": "After_I_Read_40_Books_on_Money_-_Here_s_What_Will_Make_You_Rich_hBtxSzKhM44_720p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-8153/After_I_Read_40_Books_on_Money_-_Here_s_What_Will_Make_You_Rich_hBtxSzKhM44_720p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/446035655",
+      "id": 446035655,
+      "size": 89894752,
+      "download_count": 0
+    }
+  ]
+}
