@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-8430",
+  "folder": "YouTube__watch_20260612012325_f8f399",
+  "base_name": "4_Jokes_That_Will_Make_You_The_Most_Liked_Person_In_The_Group_RRjRgT8QQ3c_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-8430",
+  "files": [
+    {
+      "name": "4_Jokes_That_Will_Make_You_The_Most_Liked_Person_In_The_Group_RRjRgT8QQ3c_720p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-8430/4_Jokes_That_Will_Make_You_The_Most_Liked_Person_In_The_Group_RRjRgT8QQ3c_720p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/445225231",
+      "id": 445225231,
+      "size": 83066399,
+      "download_count": 0
+    }
+  ]
+}
