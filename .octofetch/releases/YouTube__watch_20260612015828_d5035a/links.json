@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-7557",
+  "folder": "YouTube__watch_20260612015828_d5035a",
+  "base_name": "Dr_Paul_Conti_How_to_Understand_Assess_Your_Mental_Health_Huberman_Lab_tLRCS48Ens4_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-7557",
+  "files": [
+    {
+      "name": "Dr_Paul_Conti_How_to_Understand_Assess_Your_Mental_Health_Huberman_Lab_tLRCS48Ens4_720p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-7557/Dr_Paul_Conti_How_to_Understand_Assess_Your_Mental_Health_Huberman_Lab_tLRCS48Ens4_720p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/445249828",
+      "id": 445249828,
+      "size": 835341095,
+      "download_count": 0
+    }
+  ]
+}
