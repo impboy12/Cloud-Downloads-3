@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-3309",
+  "folder": "YouTube__watch_20260612211256_e19453",
+  "base_name": "33_Life-Changing_Books_Summarized_in_20_Minutes_7kwqWgXzHvc_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-3309",
+  "files": [
+    {
+      "name": "33_Life-Changing_Books_Summarized_in_20_Minutes_7kwqWgXzHvc_720p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-3309/33_Life-Changing_Books_Summarized_in_20_Minutes_7kwqWgXzHvc_720p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/446054323",
+      "id": 446054323,
+      "size": 129732131,
+      "download_count": 0
+    }
+  ]
+}
