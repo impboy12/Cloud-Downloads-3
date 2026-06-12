@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-8035",
+  "folder": "YouTube__watch_20260612233406_cb077d",
+  "base_name": "Why_You_re_Always_Tired_-_7_Myths_Ruining_Your_Sleep_qlf9-573MhI_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-8035",
+  "files": [
+    {
+      "name": "Why_You_re_Always_Tired_-_7_Myths_Ruining_Your_Sleep_qlf9-573MhI_720p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-8035/Why_You_re_Always_Tired_-_7_Myths_Ruining_Your_Sleep_qlf9-573MhI_720p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/446144120",
+      "id": 446144120,
+      "size": 60893461,
+      "download_count": 0
+    }
+  ]
+}
