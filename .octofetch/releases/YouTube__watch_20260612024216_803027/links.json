@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-3979",
+  "folder": "YouTube__watch_20260612024216_803027",
+  "base_name": "43_minutes_straight_of_SOLID_communication_skills_advice_6-shbSFc48E_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-3979",
+  "files": [
+    {
+      "name": "43_minutes_straight_of_SOLID_communication_skills_advice_6-shbSFc48E_720p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-3979/43_minutes_straight_of_SOLID_communication_skills_advice_6-shbSFc48E_720p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/445279062",
+      "id": 445279062,
+      "size": 210392423,
+      "download_count": 0
+    }
+  ]
+}
