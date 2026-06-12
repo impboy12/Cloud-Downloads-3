@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-8655",
+  "folder": "YouTube__watch_20260612204624_eb19e5",
+  "base_name": "The_Best_Books_You_Can_Read_hEZvHE7XfZE_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-8655",
+  "files": [
+    {
+      "name": "The_Best_Books_You_Can_Read_hEZvHE7XfZE_720p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-8655/The_Best_Books_You_Can_Read_hEZvHE7XfZE_720p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/446035024",
+      "id": 446035024,
+      "size": 65451514,
+      "download_count": 0
+    }
+  ]
+}
