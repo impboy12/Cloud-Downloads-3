@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-3102",
+  "folder": "YouTube__watch_20260612204342_bf6dbe",
+  "base_name": "Give_me_16_minutes_and_I_ll_teach_you_how_to_read_like_a_PRO_VA6kJoUEqPY_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-3102",
+  "files": [
+    {
+      "name": "Give_me_16_minutes_and_I_ll_teach_you_how_to_read_like_a_PRO_VA6kJoUEqPY_720p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-3102/Give_me_16_minutes_and_I_ll_teach_you_how_to_read_like_a_PRO_VA6kJoUEqPY_720p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/446033559",
+      "id": 446033559,
+      "size": 124802827,
+      "download_count": 0
+    }
+  ]
+}
