@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-5555",
+  "folder": "YouTube__watch_20260612024126_8eac15",
+  "base_name": "Watch_This_For_14_Minutes_And_You_ll_Outlearn_99_Of_People_1K4rikxEDmY_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-5555",
+  "files": [
+    {
+      "name": "Watch_This_For_14_Minutes_And_You_ll_Outlearn_99_Of_People_1K4rikxEDmY_720p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-5555/Watch_This_For_14_Minutes_And_You_ll_Outlearn_99_Of_People_1K4rikxEDmY_720p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/445278385",
+      "id": 445278385,
+      "size": 106867834,
+      "download_count": 0
+    }
+  ]
+}
