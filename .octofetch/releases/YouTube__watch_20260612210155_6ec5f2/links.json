@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-2011",
+  "folder": "YouTube__watch_20260612210155_6ec5f2",
+  "base_name": "If_I_Started_From_Scratch_Again_I_d_Do_This_6IiEoSHw9gY_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-2011",
+  "files": [
+    {
+      "name": "If_I_Started_From_Scratch_Again_I_d_Do_This_6IiEoSHw9gY_720p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-2011/If_I_Started_From_Scratch_Again_I_d_Do_This_6IiEoSHw9gY_720p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/446045646",
+      "id": 446045646,
+      "size": 59971116,
+      "download_count": 0
+    }
+  ]
+}
