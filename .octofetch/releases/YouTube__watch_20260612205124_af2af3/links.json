@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-7031",
+  "folder": "YouTube__watch_20260612205124_af2af3",
+  "base_name": "5_Stages_to_Getting_Rich_in_2026_Which_One_Are_You_KrZyTewn6mg_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-7031",
+  "files": [
+    {
+      "name": "5_Stages_to_Getting_Rich_in_2026_Which_One_Are_You_KrZyTewn6mg_720p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-7031/5_Stages_to_Getting_Rich_in_2026_Which_One_Are_You_KrZyTewn6mg_720p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/446038160",
+      "id": 446038160,
+      "size": 55705479,
+      "download_count": 0
+    }
+  ]
+}
