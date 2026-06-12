@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-2923",
+  "folder": "YouTube__watch_20260612205558_007720",
+  "base_name": "The_Only_Investing_Video_You_ll_Ever_Need_(Start_With_100)_Ay4fmZdZqJE_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-2923",
+  "files": [
+    {
+      "name": "The_Only_Investing_Video_You_ll_Ever_Need_.Start_With_100._Ay4fmZdZqJE_720p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-2923/The_Only_Investing_Video_You_ll_Ever_Need_.Start_With_100._Ay4fmZdZqJE_720p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/446041323",
+      "id": 446041323,
+      "size": 95742466,
+      "download_count": 0
+    }
+  ]
+}
