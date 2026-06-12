@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-2826",
+  "folder": "YouTube__watch_20260612232848_1ba13a",
+  "base_name": "How_I_Manage_My_Time_-_10_Time_Management_Tips_iONDebHX9qk_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-2826",
+  "files": [
+    {
+      "name": "How_I_Manage_My_Time_-_10_Time_Management_Tips_iONDebHX9qk_720p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-2826/How_I_Manage_My_Time_-_10_Time_Management_Tips_iONDebHX9qk_720p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/446139083",
+      "id": 446139083,
+      "size": 72056142,
+      "download_count": 0
+    }
+  ]
+}
