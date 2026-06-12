@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-5083",
+  "folder": "YouTube__watch_20260612211729_2b9382",
+  "base_name": "Two_2-minute_Rules_to_Beat_Procrastination_(in_2_minutes)_0CmtDk-joT4_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-5083",
+  "files": [
+    {
+      "name": "Two_2-minute_Rules_to_Beat_Procrastination_.in_2_minutes._0CmtDk-joT4_720p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-5083/Two_2-minute_Rules_to_Beat_Procrastination_.in_2_minutes._0CmtDk-joT4_720p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/446057240",
+      "id": 446057240,
+      "size": 23340777,
+      "download_count": 0
+    }
+  ]
+}
