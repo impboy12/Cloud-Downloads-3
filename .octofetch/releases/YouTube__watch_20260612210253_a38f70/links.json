@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-8088",
+  "folder": "YouTube__watch_20260612210253_a38f70",
+  "base_name": "tier-ranking_every_classic_book_(so_you_know_which_ones_to_read)_92QbQOK8VTI_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-8088",
+  "files": [
+    {
+      "name": "tier-ranking_every_classic_book_.so_you_know_which_ones_to_read._92QbQOK8VTI_720p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-8088/tier-ranking_every_classic_book_.so_you_know_which_ones_to_read._92QbQOK8VTI_720p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/446046355",
+      "id": 446046355,
+      "size": 72994692,
+      "download_count": 0
+    }
+  ]
+}
