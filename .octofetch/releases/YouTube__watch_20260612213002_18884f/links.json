@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-6467",
+  "folder": "YouTube__watch_20260612213002_18884f",
+  "base_name": "Tools_for_Managing_Stress_Anxiety_ntfcfJ28eiU_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-6467",
+  "files": [
+    {
+      "name": "Tools_for_Managing_Stress_Anxiety_ntfcfJ28eiU_720p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-6467/Tools_for_Managing_Stress_Anxiety_ntfcfJ28eiU_720p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/446065580",
+      "id": 446065580,
+      "size": 391300468,
+      "download_count": 0
+    }
+  ]
+}
