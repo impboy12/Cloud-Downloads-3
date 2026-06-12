@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-4237",
+  "folder": "YouTube__watch_20260612232100_b835ac",
+  "base_name": "The_Skill_of_Humor_Andrew_Tarvin_TEDxTAMU_MdZAMSyn_As_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-4237",
+  "files": [
+    {
+      "name": "The_Skill_of_Humor_Andrew_Tarvin_TEDxTAMU_MdZAMSyn_As_720p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-4237/The_Skill_of_Humor_Andrew_Tarvin_TEDxTAMU_MdZAMSyn_As_720p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/446133570",
+      "id": 446133570,
+      "size": 56934504,
+      "download_count": 0
+    }
+  ]
+}
