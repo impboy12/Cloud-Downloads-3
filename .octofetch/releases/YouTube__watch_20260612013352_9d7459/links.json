@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-3009",
+  "folder": "YouTube__watch_20260612013352_9d7459",
+  "base_name": "ZH_-_Ladder_Games_vs_Size_01__CJofniE_T4_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-3009",
+  "files": [
+    {
+      "name": "ZH_-_Ladder_Games_vs_Size_01__CJofniE_T4_720p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-3009/ZH_-_Ladder_Games_vs_Size_01__CJofniE_T4_720p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/445232857",
+      "id": 445232857,
+      "size": 607639795,
+      "download_count": 0
+    }
+  ]
+}
