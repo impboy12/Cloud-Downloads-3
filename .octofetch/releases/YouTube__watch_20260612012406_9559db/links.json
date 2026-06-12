@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-8662",
+  "folder": "YouTube__watch_20260612012406_9559db",
+  "base_name": "How_To_Command_Respect_Without_Being_A_Jerk_GFphNr0FK-0_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-8662",
+  "files": [
+    {
+      "name": "How_To_Command_Respect_Without_Being_A_Jerk_GFphNr0FK-0_720p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-8662/How_To_Command_Respect_Without_Being_A_Jerk_GFphNr0FK-0_720p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/445225805",
+      "id": 445225805,
+      "size": 40838603,
+      "download_count": 0
+    }
+  ]
+}
