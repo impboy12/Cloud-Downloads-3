@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-7351",
+  "folder": "YouTube__watch_20260612205433_0ac051",
+  "base_name": "7_Things_You_Should_Avoid_If_You_Want_to_Be_Rich_KMbFjoHUYbA_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-7351",
+  "files": [
+    {
+      "name": "7_Things_You_Should_Avoid_If_You_Want_to_Be_Rich_KMbFjoHUYbA_720p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-7351/7_Things_You_Should_Avoid_If_You_Want_to_Be_Rich_KMbFjoHUYbA_720p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/446040283",
+      "id": 446040283,
+      "size": 70686577,
+      "download_count": 0
+    }
+  ]
+}
