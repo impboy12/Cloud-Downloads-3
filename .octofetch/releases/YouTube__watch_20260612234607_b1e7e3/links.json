@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-2373",
+  "folder": "YouTube__watch_20260612234607_b1e7e3",
+  "base_name": "How_to_Organise_your_Life_-_Building_a_Second_Brain_K-ssUVyfn5g_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-2373",
+  "files": [
+    {
+      "name": "How_to_Organise_your_Life_-_Building_a_Second_Brain_K-ssUVyfn5g_720p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-2373/How_to_Organise_your_Life_-_Building_a_Second_Brain_K-ssUVyfn5g_720p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/446151857",
+      "id": 446151857,
+      "size": 98940499,
+      "download_count": 0
+    }
+  ]
+}
