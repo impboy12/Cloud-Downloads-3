@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-7289",
+  "folder": "YouTube__watch_20260612233325_aa308d",
+  "base_name": "How_I_ranked_1st_at_Cambridge_University_-_The_Essay_Memorisation_Fram_-46Vyiwat_Y_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-7289",
+  "files": [
+    {
+      "name": "How_I_ranked_1st_at_Cambridge_University_-_The_Essay_Memorisation_Fram_-46Vyiwat_Y_720p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-7289/How_I_ranked_1st_at_Cambridge_University_-_The_Essay_Memorisation_Fram_-46Vyiwat_Y_720p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/446143331",
+      "id": 446143331,
+      "size": 100634608,
+      "download_count": 0
+    }
+  ]
+}
