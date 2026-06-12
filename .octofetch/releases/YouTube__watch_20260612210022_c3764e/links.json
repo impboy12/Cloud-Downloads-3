@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-6758",
+  "folder": "YouTube__watch_20260612210022_c3764e",
+  "base_name": "If_you_re_ambitious_but_lazy_please_watch_this_video_JMN0XbamRo8_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-6758",
+  "files": [
+    {
+      "name": "If_you_re_ambitious_but_lazy_please_watch_this_video_JMN0XbamRo8_720p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-6758/If_you_re_ambitious_but_lazy_please_watch_this_video_JMN0XbamRo8_720p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/446044383",
+      "id": 446044383,
+      "size": 58941938,
+      "download_count": 0
+    }
+  ]
+}
