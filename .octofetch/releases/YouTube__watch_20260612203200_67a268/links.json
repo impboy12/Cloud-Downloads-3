@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-8140",
+  "folder": "YouTube__watch_20260612203200_67a268",
+  "base_name": "7_Things_Organized_People_Do_That_You_(Probably)_Don_t_Do_tlFGOSEI_lo_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-8140",
+  "files": [
+    {
+      "name": "7_Things_Organized_People_Do_That_You_.Probably._Don_t_Do_tlFGOSEI_lo_720p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-8140/7_Things_Organized_People_Do_That_You_.Probably._Don_t_Do_tlFGOSEI_lo_720p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/446025811",
+      "id": 446025811,
+      "size": 48288135,
+      "download_count": 0
+    }
+  ]
+}
