@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-7817",
+  "folder": "YouTube__watch_20260612231443_a53c73",
+  "base_name": "The_first_20_hours_--_how_to_learn_anything_Josh_Kaufman_TEDxCSU_5MgBikgcWnY_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/impboy12/Cloud-Downloads-3/releases/tag/co-releases-v1-7817",
+  "files": [
+    {
+      "name": "The_first_20_hours_--_how_to_learn_anything_Josh_Kaufman_TEDxCSU_5MgBikgcWnY_720p.mp4",
+      "url": "https://github.com/impboy12/Cloud-Downloads-3/releases/download/co-releases-v1-7817/The_first_20_hours_--_how_to_learn_anything_Josh_Kaufman_TEDxCSU_5MgBikgcWnY_720p.mp4",
+      "api_url": "https://api.github.com/repos/impboy12/Cloud-Downloads-3/releases/assets/446128094",
+      "id": 446128094,
+      "size": 84529219,
+      "download_count": 0
+    }
+  ]
+}
